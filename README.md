@@ -14,3 +14,6 @@ $ mafetch -b
 ## Preview
 ![preview1](https://github.com/fikriomar16/mafetch/raw/master/preview1.png)
 ![preview2](https://github.com/fikriomar16/mafetch/raw/master/preview2.png)
+
+## License
+The code is available under the [MIT License](https://github.com/fikriomar16/obtgen/blob/master/LICENSE.md)
